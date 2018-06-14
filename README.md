@@ -1,0 +1,2 @@
+# ABBACNB
+ABBA model CNB 
